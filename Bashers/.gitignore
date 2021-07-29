@@ -20,8 +20,7 @@
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 #MANUALLY ADDED -ISMET
-GITHUB/
-*Github.meta
+
 
 # Visual Studio cache directory
 .vs/

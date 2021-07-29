@@ -22,6 +22,7 @@
 #MANUALLY ADDED -ISMET
 GITHUB/
 *Github.meta
+_terrainAutoUpgrade/**/*.meta
 
 # Visual Studio cache directory
 .vs/
